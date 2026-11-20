@@ -1,4 +1,4 @@
-# SDSC-STEM4Health-group00
+# SDSC-STEM4Health
 
 ## Getting started in the SDSC STEM4Health Hackathon
 
